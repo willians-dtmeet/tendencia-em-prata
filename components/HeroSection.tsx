@@ -38,7 +38,7 @@ export default function HeroSection() {
             
             <div className="relative w-[300px] h-[300px] md:w-[400px] md:h-[500px] bg-white p-2 shadow-2xl rounded-t-[100px] rounded-b-[20px] rotate-2 hover:rotate-0 transition-all duration-500">
                <Image 
-                 src="/hero.jpg" 
+                 src="/Hero.jpg" 
                  alt="Coleção Tendência em Prata" 
                  fill 
                  className="object-cover rounded-t-[95px] rounded-b-[15px]" 
