@@ -30,7 +30,7 @@ export default function CartSidebar() {
   const handleCheckout = () => {
     // Número do WhatsApp da loja (Formato: 55 + DDD + Numero)
     // Edite este número conforme necessário
-    const phoneNumber = "5511994965219"
+    const phoneNumber = "5511952847724"
 
     // Cria a lista de produtos em texto
     const productList = items.map((item: CartItem) => 
